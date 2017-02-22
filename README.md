@@ -1,2 +1,1 @@
-# NoLag-Addon-
-ecks dee
+works by killing all passive mobs to save precious RAM.
